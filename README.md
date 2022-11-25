@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @yanyshev
+- 👀 I’m interested in Data Science & Economics
+- 🌱 I’m currently learning econometrics, macroeconomics, machine learning and bayesian data analysis
