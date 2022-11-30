@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @yanyshev
-- 👀 I’m interested in Data Science & Econometrics
+- 👀 I’m interested in Data Science & Machine Learning
 - 🌱 I’m currently learning R, SQL and Python
